@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane focusTraversable="true" stylesheets="@../style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.rapoarteController.RapoarteController">
+   <children>
+      <SplitPane dividerPositions="0.7" prefHeight="400.0" prefWidth="700.0" styleClass="root" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+            <AnchorPane fx:id="viewAnchorPane" focusTraversable="true" />
+            <AnchorPane focusTraversable="true" minHeight="-Infinity" minWidth="-Infinity">
+               <children>
+                  <Text fill="WHITE" layoutX="74.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rapoarte" textAlignment="CENTER" AnchorPane.leftAnchor="74.0" AnchorPane.topAnchor="14.1015625">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Text>
+                  <Button layoutX="30.0" layoutY="78.0" mnemonicParsing="false" onAction="#handleNoteLaborator" prefHeight="40.0" prefWidth="230.0" text="Note laborator" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="80.0">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="30.0" layoutY="128.0" mnemonicParsing="false" onAction="#handleTemaDificila" prefHeight="40.0" prefWidth="230.0" text="Cea mai grea tema" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="130.0">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="30.0" layoutY="184.0" mnemonicParsing="false" onAction="#handleStudentExamen" prefHeight="40.0" prefWidth="210.0" text="Studentii care pot intra in examen" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="180.0">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="24.0" layoutY="231.0" mnemonicParsing="false" onAction="#handleStudentPremiant" prefHeight="40.0" prefWidth="230.0" text="Studentiii care au predat la timp" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="230.0">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Button>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

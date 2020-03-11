@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<enities>
+    <student id="11">
+        <nume>Kevin</nume>
+        <prenume>DeBruyne</prenume>
+        <email>deBruyneKevin@yahoo.com</email>
+        <cadruDidacticLab>Klopp</cadruDidacticLab>
+        <grupa>227</grupa>
+        <nr_motivari>0</nr_motivari>
+    </student>
+    <student id="55">
+        <nume>Vasinc</nume>
+        <prenume>Horia</prenume>
+        <email>horia@gmail.com</email>
+        <cadruDidacticLab>Kamara</cadruDidacticLab>
+        <grupa>224</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="1">
+        <nume>Iohannis</nume>
+        <prenume>Klaus</prenume>
+        <email>klaus@yahoo.com</email>
+        <cadruDidacticLab>Harry</cadruDidacticLab>
+        <grupa>221</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="2">
+        <nume>Dancila</nume>
+        <prenume>Viorica</prenume>
+        <email>dancila@yahoo.com</email>
+        <cadruDidacticLab>Harry</cadruDidacticLab>
+        <grupa>221</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="3">
+        <nume>Barna</nume>
+        <prenume>Dan</prenume>
+        <email>danbarna@yahoo.com</email>
+        <cadruDidacticLab>Harry</cadruDidacticLab>
+        <grupa>221</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="4">
+        <nume>Dragnea</nume>
+        <prenume>Liviu</prenume>
+        <email>liviu@yahoo.ro</email>
+        <cadruDidacticLab>Marcel</cadruDidacticLab>
+        <grupa>221</grupa>
+        <nr_motivari>0</nr_motivari>
+    </student>
+    <student id="5">
+        <nume>Firmino</nume>
+        <prenume>Bobby</prenume>
+        <email>firmino@yahoo.com</email>
+        <cadruDidacticLab>Klopp</cadruDidacticLab>
+        <grupa>222</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="6">
+        <nume>Mane</nume>
+        <prenume>Sadio</prenume>
+        <email>sadio_mane@yahoo.com</email>
+        <cadruDidacticLab>Klopp</cadruDidacticLab>
+        <grupa>222</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="7">
+        <nume>Milner</nume>
+        <prenume>James</prenume>
+        <email>milner@yahoo.com</email>
+        <cadruDidacticLab>Klopp</cadruDidacticLab>
+        <grupa>222</grupa>
+        <nr_motivari>0</nr_motivari>
+    </student>
+    <student id="8">
+        <nume>Lovren</nume>
+        <prenume>Dejan</prenume>
+        <email>lovren@yahoo.com</email>
+        <cadruDidacticLab>Klopp</cadruDidacticLab>
+        <grupa>222</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="9">
+        <nume>Gates</nume>
+        <prenume>Bill</prenume>
+        <email>bill@yahoo.com</email>
+        <cadruDidacticLab>Mark</cadruDidacticLab>
+        <grupa>223</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="41">
+        <nume>Dragnea</nume>
+        <prenume>Liviu</prenume>
+        <email>liviu@yahoo.com</email>
+        <cadruDidacticLab>Marcel</cadruDidacticLab>
+        <grupa>221</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="42">
+        <nume>Voiculescu</nume>
+        <prenume>Marian</prenume>
+        <email>marian@yahoo.com</email>
+        <cadruDidacticLab>Iancu</cadruDidacticLab>
+        <grupa>225</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+    <student id="10">
+        <nume>Bezos</nume>
+        <prenume>Jeff</prenume>
+        <email>jeff@yahoo.com</email>
+        <cadruDidacticLab>Mark</cadruDidacticLab>
+        <grupa>223</grupa>
+        <nr_motivari>2</nr_motivari>
+    </student>
+</enities>

@@ -1,0 +1,215 @@
+Tema: 3
+Nota: 1.0
+Predata in saptamna: 9
+Deadline: 6
+Feedback: ok Nota a fost diminuata cu 3 puncte.
+Tema: 6
+Nota: 1.0
+Predata in saptamna: 9
+Deadline: 4
+Feedback: ok
+Tema: 1
+Nota: 6.2
+Predata in saptamna: 9
+Deadline: 7
+Feedback: OK
+Tema: 1
+Nota: 6.45
+Predata in saptamna: 9
+Deadline: 7
+Feedback: In principiu, bine.
+Tema: 1
+Nota: 6.45
+Predata in saptamna: 9
+Deadline: 7
+Feedback: In principiu, bine. Nota a fost diminuata cu 2.0 puncte datorita intarzierilor.
+Tema: 1
+Nota: 6.7
+Predata in saptamna: 9
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 6.7
+Predata in saptamna: 9
+Deadline: 7
+Feedback:  Nota a fost diminuata cu 2.0 puncte datorita intarzierilor.
+Tema: 1
+Nota: 6.7
+Predata in saptamna: 9
+Deadline: 7
+Feedback:  Nota a fost diminuata cu 2.0 puncte datorita intarzierilor. Nota a fost diminuata cu 2.0 puncte datorita intarzierilor.
+Tema: 1
+Nota: 6.7
+Predata in saptamna: 9
+Deadline: 7
+Feedback:  Nota a fost diminuata cu 2.0 puncte datorita intarzierilor. Nota a fost diminuata cu 2.0 puncte datorita intarzierilor. Nota a fost diminuata cu 2.0 puncte datorita intarzierilor.
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: ok
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: ok
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 8.0
+Predata in saptamna: 9
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: ok
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 10
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 
+Tema: 7
+Nota: 10.0
+Predata in saptamna: 11
+Deadline: 11
+Feedback: 
+Tema: 7
+Nota: -2.0
+Predata in saptamna: 11
+Deadline: 11
+Feedback: 
+Tema: 2
+Nota: 6.0
+Predata in saptamna: 11
+Deadline: 9
+Feedback: 
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 
+Tema: 7
+Nota: 10.0
+Predata in saptamna: 11
+Deadline: 11
+Feedback: 
+Tema: 5
+Nota: 1.0
+Predata in saptamna: 8
+Deadline: 5
+Feedback: 

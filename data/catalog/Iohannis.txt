@@ -1,0 +1,5 @@
+Tema: 1
+Nota: 1.0
+Predata in saptamna: 11
+Deadline: 7
+Feedback: 

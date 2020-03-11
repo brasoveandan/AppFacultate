@@ -1,0 +1,10 @@
+Tema: 2
+Nota: 6.9
+Predata in saptamna: 9
+Deadline: 9
+Feedback: Ati gresit
+Tema: 2
+Nota: 1.0
+Predata in saptamna: 9
+Deadline: 9
+Feedback: 

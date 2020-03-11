@@ -1,0 +1,11 @@
+11; DeBruyne; Kevin; deBruyneKevin@yahoo.com; Klopp; 227
+1; Dancila; Viorica; dancila@yahoo.com; Marcel; 222
+2; Dragnea; Liviu; liviu_dragnea@yahoo.com; Marcel; 222
+3; Klaus; Iohannis; klaus@yahoo.com; Marcel; 222
+4; Jobs; Steve; steve@yahoo.com; Mark; 225
+5; Bezos; Jeff; jeff@yahoo.com; Mark; 225
+6; Gates; Bill; bill@yahoo.com; Mark; 225
+7; Stanciu; Nicolae; nicolae_st@yahoo.com; Klopp; 221
+8; Firmino; Bobby; bobby@yahoo.com; Klopp; 226
+9; Mane; Sadio; sadio_mane@yahoo.com; Klopp; 226
+10; Milner; James; james@yahoo.com; Klopp; 226

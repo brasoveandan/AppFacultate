@@ -1,0 +1,6 @@
+Tema: 7
+Nota: 10.0
+Predata in saptamna: 7
+Deadline: 7
+Feedback: Vezi conceptul de Interfata - in proiectul tau, obiectele de tipul repository nu
+sunt declarate de tipul interfetei.

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="398.4" prefWidth="442.4" xmlns="http://javafx.com/javafx/10.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.rapoarteController.NotaLaboratorController">
+    <children>
+        <TableView fx:id="tableViewNoteLaborator" editable="true" opacity="0.7" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <columns>
+                <TableColumn fx:id="tableColumnNumeStudent" editable="false" prefWidth="110.0" text="Nume Student" />
+                <TableColumn fx:id="tableColumnPrenumeStudent" editable="false" prefWidth="110.0" text="Prenume Student" />
+                <TableColumn fx:id="tableColumnGrupaStudent" editable="false" prefWidth="75.0" text="Grupa" />
+                <TableColumn fx:id="tableColumnNotaFinala" editable="false" minWidth="-1.0" prefWidth="150.0" text="Nota Finala Laborator" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>
+

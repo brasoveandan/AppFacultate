@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MenuController">
+   <children>
+      <Button layoutX="135.0" layoutY="200.0" mnemonicParsing="false" onAction="#showNotaWindow" prefHeight="35.0" prefWidth="130.0" style="-fx-background-color: #85C1E9;" text="Gestiune Note" AnchorPane.leftAnchor="135.0" AnchorPane.rightAnchor="135.0" AnchorPane.topAnchor="225.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="135.0" layoutY="99.0" mnemonicParsing="false" onAction="#showStudentWindow" prefHeight="35.0" prefWidth="130.0" style="-fx-background-color: #85C1E9;" text="Gestiune Studenti" AnchorPane.leftAnchor="135.0" AnchorPane.rightAnchor="135.0" AnchorPane.topAnchor="125.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Text fill="WHITE" layoutX="131.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Meniu Principal:" AnchorPane.leftAnchor="131.0" AnchorPane.rightAnchor="131.3544921875" AnchorPane.topAnchor="85.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Button layoutX="135.0" layoutY="151.0" mnemonicParsing="false" onAction="#showTemaWindow" prefHeight="35.0" prefWidth="130.0" style="-fx-background-color: #85C1E9;" text="Gestiune Teme" AnchorPane.leftAnchor="135.0" AnchorPane.rightAnchor="135.0" AnchorPane.topAnchor="175.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="136.0" fitWidth="130.0" layoutX="262.0" layoutY="265.0" pickOnBounds="true" preserveRatio="true" rotate="15.0" AnchorPane.rightAnchor="8.0" AnchorPane.topAnchor="265.0">
+         <image>
+            <Image url="@../images/a1156706d524cb30d89ca7bee50b5d32.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" layoutX="37.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Aplicatie Gestiune Facultate" textAlignment="CENTER" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="25.0">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Text>
+      <Button layoutX="137.0" layoutY="277.0" mnemonicParsing="false" onAction="#showRapoarteWindow" prefHeight="35.0" prefWidth="130.0" style="-fx-background-color: #85C1E9;" text="Rapoarte" AnchorPane.leftAnchor="135.0" AnchorPane.rightAnchor="135.0" AnchorPane.topAnchor="275.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="398.4" prefWidth="442.4" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.rapoarteController.TemaGreaController">
+   <children>
+      <SplitPane orientation="VERTICAL" prefHeight="398.4" prefWidth="442.4" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <TableView fx:id="tableViewTema" editable="true" opacity="0.7">
+                    <columns>
+                      <TableColumn fx:id="tableColumnDescriereTema" editable="false" prefWidth="190.0" text="Descriere Tema" />
+                        <TableColumn fx:id="tableColumnStartWeek" editable="false" text="StartWeek" />
+                        <TableColumn fx:id="tableColumnDeadlineWeek" editable="false" minWidth="0.0" prefWidth="90.0" text="DeadlineWeek" />
+                      <TableColumn fx:id="tableColumnMedia" editable="false" minWidth="-1.0" text="Media" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
