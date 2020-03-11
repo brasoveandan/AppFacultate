@@ -1,5 +1,5 @@
 # AplicatieFacultate
-Java project 
+Proiect Java
  
 AplicatieFacultate este o aplicație care ajută cadrele didactice să monitorizeze activitatea
 studenților pe parcursul unui semestru. Aplicația va permite înregistrarea unui feedback oferit
